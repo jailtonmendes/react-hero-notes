@@ -3,11 +3,15 @@
 
 ### CRUD - ✔👀📝❌- Projeto desenvolvido com **Vite**, **React** e **TypeScript**
 
+
 <h2 align="center" >Visualização do projeto</h2>
 
 <img src="src/assets/readme/CRUD_React.gif"></img>
 
+
+
 <h3 align="center">
+<P align="center" >Hospedado na <b>AWS</b></P>
     <a href="https://main.d70t7xxdgi3vx.amplifyapp.com/">Acessar demonstração</a>
 </h3>
 
