@@ -8,7 +8,7 @@
 <img src="src/assets/readme/CRUD_React.gif"></img>
 
 <h3 align="center">
-    <a href="">Acessar demonstração</a>
+    <a href="https://main.d70t7xxdgi3vx.amplifyapp.com/">Acessar demonstração</a>
 </h3>
 
 ## Tecnologias utilizadas
